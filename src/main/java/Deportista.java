@@ -66,4 +66,10 @@ public class Deportista {
 		this.rolDeporte=rolDeporte;
 
 	}
+
+	@Override
+	public String toString() {
+		return "Deportista [nombre=" + nombre + ", apellido=" + apellido + ", correo=" + correo + ", numero=" + numero
+				+ ", deportePracticado=" + deportePracticado + ", rolDeporte=" + rolDeporte + "]";
+	}
 }
