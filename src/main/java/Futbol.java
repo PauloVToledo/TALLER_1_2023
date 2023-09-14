@@ -19,10 +19,11 @@ public class Futbol extends Deporte {
 	}
 
 	public Futbol(String tipoCampo, String tipoPartido) {
-		throw new UnsupportedOperationException();
+		this.tipoCampo=tipoCampo;
+		this.tipoPartido=tipoPartido;
 	}
 
 	public String getTipo() {
-		throw new UnsupportedOperationException();
+		return "Futbol";
 	}
 }

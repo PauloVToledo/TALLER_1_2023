@@ -37,7 +37,10 @@ public class PartidoJugado {
 		this.lugarPartido = lugarPartido;
 	}
 
-	public PartidoJugado(String equipoOponente, String resultado, Object fecha, Object string, String lugarPartido) {
-		throw new UnsupportedOperationException();
+	public PartidoJugado(String equipoOponente, String resultado, String fecha, String lugarPartido) {
+		this.equipoOponente=equipoOponente;
+		this.resultado=resultado;
+		this.fecha=fecha;
+		this.lugarPartido=lugarPartido;
 	}
 }

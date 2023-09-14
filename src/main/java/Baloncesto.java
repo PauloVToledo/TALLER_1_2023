@@ -19,10 +19,12 @@ public class Baloncesto extends Deporte {
 	}
 
 	public Baloncesto(String tipoCancha, int numeroTiemposJugados) {
-		throw new UnsupportedOperationException();
+
+		this.tipoCancha= tipoCancha;
+		this.numeroTiemposJugados=numeroTiemposJugados;
 	}
 
 	public String getTipo() {
-		throw new UnsupportedOperationException();
+		return "Baloncesto";
 	}
 }

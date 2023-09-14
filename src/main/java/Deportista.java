@@ -5,7 +5,7 @@ public class Deportista {
 	private int numero;
 	private String deportePracticado;
 	private String rolDeporte;
-	public GestionClubDeportivo unnamed_GestionClubDeportivo_;
+	public GestionClubDeportivo GestionClubDeportivo;
 	private Deporte deporte;
 
 	public String getNombre() {
@@ -57,6 +57,13 @@ public class Deportista {
 	}
 
 	public Deportista(String nombre, String apellido, String correo, int numero, String deportePracticado, String rolDeporte) {
-		throw new UnsupportedOperationException();
+
+		this.nombre=nombre;
+		this.apellido=apellido;
+		this.correo=correo;
+		this.numero=numero;
+		this.deportePracticado=deportePracticado;
+		this.rolDeporte=rolDeporte;
+
 	}
 }

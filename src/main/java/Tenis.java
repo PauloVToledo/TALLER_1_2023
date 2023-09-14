@@ -23,6 +23,7 @@ public class Tenis extends Deporte {
 	}
 
 	public String getTipo() {
-		throw new UnsupportedOperationException();
+
+		return "Tenis";
 	}
 }

@@ -21,6 +21,7 @@ public class Entrenador {
 	}
 
 	public Entrenador(int experienciaAnnos, String especialidadDeportiva) {
-		throw new UnsupportedOperationException();
+		this.experienciaAnnos=experienciaAnnos;
+		this.especialidadDeportiva=especialidadDeportiva;
 	}
 }

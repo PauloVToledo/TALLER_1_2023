@@ -20,6 +20,6 @@ public class Equipo {
 	}
 
 	public Equipo(String historialPartidos) {
-		throw new UnsupportedOperationException();
+		this.historialPartidos=historialPartidos;
 	}
 }
