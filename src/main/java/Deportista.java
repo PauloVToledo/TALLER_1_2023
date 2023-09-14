@@ -6,7 +6,14 @@ public class Deportista {
 	private String deportePracticado;
 	private String rolDeporte;
 	public GestionClubDeportivo GestionClubDeportivo;
-	private Deporte deporte;
+	private String deporte;
+
+	public Deportista(String nombre, String apellido, int deporte, String numero) {
+		this.nombre = nombre;
+		this.apellido = apellido;
+		this.deporte = String.valueOf(deporte);
+		this.numero = Integer.parseInt(numero);
+	}
 
 	public String getNombre() {
 		return this.nombre;
@@ -72,4 +79,5 @@ public class Deportista {
 		return "Deportista [nombre=" + nombre + ", apellido=" + apellido + ", correo=" + correo + ", numero=" + numero
 				+ ", deportePracticado=" + deportePracticado + ", rolDeporte=" + rolDeporte + "]";
 	}
+
 }
