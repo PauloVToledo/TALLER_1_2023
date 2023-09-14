@@ -6,6 +6,7 @@ public class GestionClubDeportivo {
 	public Equipo unnamed_Equipo_;
 	ArrayList<Deportista> deportistas;
 	ArrayList<Entrenador> entrenadores;
+	private PartidoJugado[] partidosJugados;
 
 	public ArrayList<Deportista> registrarDeportista(String nombre, String apellido, String numero, int deporte) {
 		for (Deportista d : this.deportistas) {
@@ -40,7 +41,12 @@ public class GestionClubDeportivo {
 	}
 
 	public PartidoJugado registrarPartidosJugados(PartidoJugado partido) {
-		throw new UnsupportedOperationException();
+		for (PartidoJugado p : this.partidosJugados) {
+			if (p.equals(partido)) {
+				throw new IllegalArgumentException("El partido ya existe");
+		 }
+		}
+		return partido;
 	}
 
 	public ArrayList<Deportista> obtenerEstadisticasJugador(Deportista deportista) {
