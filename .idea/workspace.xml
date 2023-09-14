@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc2d57f2-45b2-421d-830f-1dfdf7194ab2" name="Changes" comment="modificación funciones de registro" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="PV_Secundaria" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2VM8HxM416ql4RdpUSgM6STtnJu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/paulo/TALLER_1_2023",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="TALLER_1_2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc2d57f2-45b2-421d-830f-1dfdf7194ab2" name="Changes" comment="" />
+      <created>1694634505467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694634505467</updated>
+    </task>
+    <task id="LOCAL-00001" summary="este es mi primer commit">
+      <created>1694636841152</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694636841152</updated>
+    </task>
+    <task id="LOCAL-00002" summary="agregué un método en la rama secundaria.">
+      <created>1694637008941</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694637008941</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Modifiqué un método, quería probar una funcionalidad.">
+      <created>1694637804707</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694637804707</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Modifiqué un método, quería probar una funcionalidad.">
+      <created>1694637827781</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694637827781</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Borré métodos del main y lo depuré.">
+      <created>1694638141413</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694638141413</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Borré métodos del main y lo depuré.">
+      <created>1694638177379</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694638177379</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Tuve que corregir métodos, tenía errores de sintaxis&#10;me había equivocado en la descripción de tipos de datos.">
+      <created>1694694485359</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694694485359</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Descripción de la problemática en el README.md">
+      <created>1694694745863</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694694745863</updated>
+    </task>
+    <task id="LOCAL-00009" summary="AHora inicialicé constructores de objetos.">
+      <created>1694695563294</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1694695563294</updated>
+    </task>
+    <task id="LOCAL-00010" summary="redacte especificaciones por deporte.">
+      <created>1694696067641</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1694696067641</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Agregado de toString en clase Deportista.java">
+      <created>1694696753810</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1694696753810</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Agregado de funcionalidad de registro.">
+      <created>1694698032794</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1694698032794</updated>
+    </task>
+    <task id="LOCAL-00013" summary="modificación funciones de registro">
+      <created>1694698622184</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1694698622184</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="este es mi primer commit" />
+    <MESSAGE value="agregué un método en la rama secundaria." />
+    <MESSAGE value="Modifiqué un método, quería probar una funcionalidad." />
+    <MESSAGE value="Borré métodos del main y lo depuré." />
+    <MESSAGE value="Tuve que corregir métodos, tenía errores de sintaxis&#10;me había equivocado en la descripción de tipos de datos." />
+    <MESSAGE value="Descripción de la problemática en el README.md" />
+    <MESSAGE value="AHora inicialicé constructores de objetos." />
+    <MESSAGE value="redacte especificaciones por deporte." />
+    <MESSAGE value="Agregado de toString en clase Deportista.java" />
+    <MESSAGE value="Agregado de funcionalidad de registro." />
+    <MESSAGE value="modificación funciones de registro" />
+    <option name="LAST_COMMIT_MESSAGE" value="modificación funciones de registro" />
+  </component>
+</project>
