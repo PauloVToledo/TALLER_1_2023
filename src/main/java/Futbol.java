@@ -27,3 +27,8 @@ public class Futbol extends Deporte {
 		return "Futbol";
 	}
 }
+
+/*
+el tipo de campo puede ser natural o sintético.
+el partido local o visitante.
+ */

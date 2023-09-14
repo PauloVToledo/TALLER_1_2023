@@ -27,3 +27,8 @@ public class Tenis extends Deporte {
 		return "Tenis";
 	}
 }
+
+/*
+el tipo de superficie puede ser: césped, arcilla o dura.
+el tipo partido puede ser individual o dobles.
+ */

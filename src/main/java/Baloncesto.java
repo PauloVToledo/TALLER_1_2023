@@ -28,3 +28,7 @@ public class Baloncesto extends Deporte {
 		return "Baloncesto";
 	}
 }
+
+/*
+el tipo cancha puede ser interior o exterior
+ */
